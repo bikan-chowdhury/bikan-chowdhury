@@ -14,7 +14,7 @@ My focus is on creating solutions that are useful, efficient, and impactful.
 ## 🚀 About Me
 
 - 💻 Passionate about **Full Stack Development**
-- 🚀 Founder of **[itsave.app](https://itsave.app)** – a platform designed to help users manage and organize useful content efficiently
+- 🚀 Founder of **[itsave.app](https://itsave.app)**
 - 🌐 Portfolio: **[bikan-chowdhury.github.io](https://bikan-chowdhury.github.io/)**
 - 🧠 Skilled in **Data Structures & Algorithms**
 - 📈 Experienced in **SEO and Data Analysis**
