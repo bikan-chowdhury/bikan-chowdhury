@@ -1,35 +1,33 @@
 <h1 align="center">Hi 👋, I'm Bikan Chowdhury</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Founder of itsave.app | Tech Enthusiast
+Full Stack Developer • Founder • Tech Enthusiast
 </h3>
 
 <p align="center">
-I love building scalable applications, exploring new technologies, and turning ideas into real products.
-</p>
-
-<p align="center">
-🌐 Portfolio: <a href="https://bikan-chowdhury.github.io/">bikan-chowdhury.github.io</a>
+I enjoy building meaningful digital products and scalable web applications.  
+My focus is on creating solutions that are useful, efficient, and impactful.
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-✨ Passionate about building **real-world software solutions**  
-🚀 **Founder of itsave.app**  
-💻 Focused on **Full Stack Development**  
-📚 Currently learning **Data Structures & Algorithms (DSA)** and **Data Science**  
-⚡ Love exploring **new technologies and scalable systems**
+- 💻 Passionate about **Full Stack Development**
+- 🚀 Founder of **[itsave.app](https://itsave.app)** – a platform designed to help users manage and organize useful content efficiently
+- 🌐 Portfolio: **[bikan-chowdhury.github.io](https://bikan-chowdhury.github.io/)**
+- 🧠 Skilled in **Data Structures & Algorithms**
+- 📈 Experienced in **SEO and Data Analysis**
+- 📚 Continuously improving my knowledge in **DSA, scalable systems, and Data Science**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
@@ -65,47 +63,46 @@ I love building scalable applications, exploring new technologies, and turning i
 
 ---
 
-# 📊 GitHub Stats
+## 📊 Skills & Expertise
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bikan-chowdhury&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikan-chowdhury&layout=compact&theme=tokyonight" />
-
-</p>
+- ⚡ Full Stack Web Development  
+- 🧠 Data Structures & Algorithms  
+- 🔍 Search Engine Optimization (SEO)  
+- 📊 Data Analysis  
+- ☁️ Cloud Deployment & Web Infrastructure  
 
 ---
 
-# 📈 Current Focus
+## 🌱 Currently Improving
 
-🧠 Mastering **Data Structures & Algorithms**  
-📊 Exploring **Data Science**  
-⚡ Building **scalable web applications**  
-🚀 Launching useful **real-world products**
+- Advanced **Data Structures & Algorithms**
+- **Data Science & Data-driven development**
+- **Scalable system architecture**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Explore My Work
 
-<p align="left">
+🚀 **itsave.app**  
+A project focused on helping users **save, organize, and manage valuable online resources efficiently.**
+
+👉 https://itsave.app
+
+💼 **Portfolio Website**  
+👉 https://bikan-chowdhury.github.io/
+
+---
+
+## 🤝 Connect With Me
 
 <a href="https://github.com/bikan-chowdhury">
-<img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://bikan-chowdhury.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge">
 </a>
 
-</p>
-
 ---
 
-# ⚡ Quote I Believe In
-
-> "Build things that solve real problems."
-
----
-
-⭐ **Thanks for visiting my profile!**
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and projects.
